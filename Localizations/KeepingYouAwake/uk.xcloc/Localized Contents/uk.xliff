@@ -55,14 +55,14 @@
       <trans-unit id="Click to allow sleep&#10;Right click to show menu" xml:space="preserve">
         <source>Click to allow sleep
 Right click to show menu</source>
-        <target>Клацніть щоб увімкнути
+        <target>Клацніть щоб увімкнути засинання
 Правий клік для меню</target>
         <note>Click to allow sleep\nRight click to show menu</note>
       </trans-unit>
       <trans-unit id="Click to prevent sleep&#10;Right click to show menu" xml:space="preserve">
         <source>Click to prevent sleep
 Right click to show menu</source>
-        <target>Клацніть щоб вимкнути
+        <target>Клацніть щоб вимкнути засинання
 Правий клік для меню</target>
         <note>Click to prevent sleep\nRight click to show menu</note>
       </trans-unit>
